@@ -52,3 +52,4 @@ npm run dev:rn
 ## License
 
 MIT
+原文链接https://github.com/qit-team/taro-yanxuan
