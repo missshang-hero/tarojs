@@ -39,7 +39,7 @@
 		"blueimp-md5": "^2.10.0",
 		"nerv-devtools": "^1.4.3",
 		"nervjs": "^1.4.3",
-		"node-sass": "^4.14.1",
+		"node-sass": "^7.0.0",
 		"react": "16.3.1",
 		"react-native": "0.55.4",
 		"redux": "^4.0.0",
